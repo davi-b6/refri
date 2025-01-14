@@ -23,6 +23,7 @@
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
+    height: 90vh;
 }
 
 #prev, #next {
@@ -64,9 +65,6 @@ left: 30px;
     display: none;
 }
 
-.item {
-    height: 90vh;
-}
 
 @media(min-width:800px) {
     
