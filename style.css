@@ -64,6 +64,10 @@ left: 30px;
     display: none;
 }
 
+.item {
+    height: 90vh;
+}
+
 @media(min-width:800px) {
     
     .item .title {
@@ -85,6 +89,5 @@ left: 30px;
     
     .item .refri {
         width: 600px;
-        height: 90vh;
     }
 }
