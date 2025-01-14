@@ -65,6 +65,10 @@ left: 30px;
     display: none;
 }
 
+img {
+    height: 90vh;
+}
+
 
 @media(min-width:800px) {
     
